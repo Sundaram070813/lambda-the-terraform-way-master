@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+node_modules
+package-lock.json
+outputfile.txt
+helloworld.txt
+helloworld.txt-metadata.txt

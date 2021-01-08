@@ -1,0 +1,8 @@
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+samples/**/*.js linguist-detectable=true
+samples/**/*.js linguist-documentation=false
+samples/**/*.json linguist-detectable=true
+samples/**/*.json linguist-documentation=false
+samples/**/*.tf linguist-detectable=true
+samples/**/*.sh linguist-detectable=true
