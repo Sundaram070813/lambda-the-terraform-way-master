@@ -36,4 +36,4 @@ Apache OpenWhisk
 KNative
 Kubeless
 Serverless
-OpenFaaS.
+OpenFaaS..
